@@ -3,6 +3,11 @@
 node_modules
 
 
+# File extensions
+# ---------------
+*.map
+*.js
+
 # Sublime Text Project files
 # --------------------------
 *.sublime-project
