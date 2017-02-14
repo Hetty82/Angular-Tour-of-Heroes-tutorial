@@ -3,7 +3,7 @@
 node_modules
 
 
-# File extensions
+# Output file extensions
 # ---------------
 *.map
 *.js
