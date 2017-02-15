@@ -7,6 +7,8 @@ node_modules
 # ---------------
 *.map
 *.js
+!/systemjs.config.js
+!/systemjs.config.extras.js
 
 # Sublime Text Project files
 # --------------------------
