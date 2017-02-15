@@ -12,6 +12,5 @@
   <h2>
     {{selectedHero.name | uppercase}} is my hero
   </h2>
-  <a [routerLink]="['/hero', selectedHero.id]">{{selectedHero.name}}</a>
-  <!-- <button (click)="gotoDetail()">View Details</button> -->
+  <button (click)="gotoDetail()">View Details</button>
 </div>
